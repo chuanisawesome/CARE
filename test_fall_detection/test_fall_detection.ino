@@ -1,3 +1,5 @@
+/* Fall Detection using MPU6050 credit to microcontrollerlabs*/
+
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
